@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chiragvalmiki.github.io/chirag-valmiki-portfolio/sitemap.xml
